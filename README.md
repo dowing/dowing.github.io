@@ -11,3 +11,6 @@
        -o /output/dir --sample-sheet /paht/to/run/SampleSheet.csv \
        -R /paht/to/run/
 | 
+
+## vb6 and python communicate thru COM
+https://www.zhihu.com/question/440831473/answer/1694447890
